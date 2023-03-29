@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Диана Сидорова](https://up.htmlacademy.ru/adaptive/28/user/1163947).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
